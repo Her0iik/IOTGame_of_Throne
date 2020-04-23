@@ -11,3 +11,19 @@ The Game of Throne dispenser will also detect the end of the roller and send you
 Each person of the house can define via the application the number of sheet for the small or big comission. You can launch the comission on the toilet you're using and the dispenser will give you the correct amount of sheets.
 
 If you have some thieves in your house and someone is trying to get your precious paper or use more sheets than needed by trying to open the paperbox, an alarm will ring in your house so you can get the thief.
+
+## How it works 
+
+// cf les scénarios + nos photos de qualiteyy
+
+## Hardware requirements
+
+// TODO : list each component 
+
+## Software requirements
+
+// carte arduino + son logiciel, librairie LCD, mettre les codes complets dans des fichiers C séparés
+
+## Detailed wiring
+
+// todo : link to tinkercad schemas + screnshots here
