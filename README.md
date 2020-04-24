@@ -36,11 +36,11 @@ First you need to select on the app which comission you're up to : the big or th
 
 Once the comission is selected, the LCD screen on the housing will give to you the number of toilet paper sheets remaining for your comission. 
 
-<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/3.png" alt="Image 3" width="250"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/credit.png" alt="credit" width="250"/>
 
 When you've finished your business, you can now ask for sheets. To do that you need to tap on the app for each sheets you use. The dispenser will give it to you and the lcd screen will decrement at each sheets of paper.
 
-<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4.png" alt="Image 4" width="250"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/3.png" alt="Image 3" width="250"/>
 <img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/unknown.png" alt="Image 5" width="250"/>
 
 Once everything is done you can click on the finish button. If you've use less toilet paper than required, you've earned Pandemic points.
