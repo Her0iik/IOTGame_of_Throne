@@ -77,4 +77,5 @@ Once everything is done you can click on the finish button. If you've use less t
 
 ## Detailed wiring
 
-// todo : link to tinkercad schemas + screnshots here
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/boitier-alerte.png" alt="Boitier alerte"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/boitier-toilettes.png" alt="Boitier toilettes"/>
