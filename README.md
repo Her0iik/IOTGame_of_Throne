@@ -12,9 +12,15 @@ Each person of the house can define via the application the number of sheet for 
 
 If you have some thieves in your house and someone is trying to get your precious paper or use more sheets than needed by trying to open the paperbox, an alarm will ring in your house so you can get the thief.
 
+
 ## How it works 
 
-// cf les scénarios + nos photos de qualiteyy
+To use this dispenser you gonna need first to go on the app create an account and create or join a house. If your creating one, you can add other member to the house when created.
+
+After that you need to set the number of sheets of toilet paper you gonna need for each commission :
+
+
+
 
 ## Hardware requirements
 
