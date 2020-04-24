@@ -1,5 +1,8 @@
 # 🚽 Game of Trone : Paper is coming 🧻
 
+This entire project has been made during quarantin, each member of the group was at home and distant from each other.
+We couldn't access to the appropriate materials to do the physical project, so we use different software to carry out the project, like TinkerCad.
+
 ## Project and goals
 
 In these dark times, toilet paper becomes a valuable resources for surviving your quarantine.
@@ -18,15 +21,15 @@ If you have some thieves in your house and someone is trying to get your preciou
 To use this dispenser you gonna need first to go on the app create an account and create or join a house. If your creating one, you can add other member to the house when created.
 
 After that you need to set the number of sheets of toilet paper you gonna need for each commission :
-![Image 1](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/1.png)
+![Image 1](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/1.png){:height="50%" width="50%"}
 
 When everything is in place you can start what you're here for, the comission.
 First you need to select on the app which comission you're up to : the big or the small.
-![Image 2](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/2.png)
+![Image 2](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/2.png){:height="50%" width="50%"}
 
 Once the comission is selected, the LCD screen on the housing will give to you the number of toilet paper sheets remaining for your comission. 
 
-![Image 3](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/credit.png)
+![Image 3](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/credit.png){:height="50%" width="50%"}
 
 When you've finished your business, you can now ask for sheets. To do that you need to tap on the app for each sheets you use. The dispenser will give it to you and the lcd screen will decrement at each sheets of paper.
 
