@@ -18,10 +18,24 @@ If you have some thieves in your house and someone is trying to get your preciou
 To use this dispenser you gonna need first to go on the app create an account and create or join a house. If your creating one, you can add other member to the house when created.
 
 After that you need to set the number of sheets of toilet paper you gonna need for each commission :
+![Image 1](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/1.png)
 
+When everything is in place you can start what you're here for, the comission.
+First you need to select on the app which comission you're up to : the big or the small.
+![Image 2](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/2.png)
 
+Once the comission is selected, the LCD screen on the housing will give to you the number of toilet paper sheets remaining for your comission. 
 
+![Image 3](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/credit.png)
 
+When you've finished your business, you can now ask for sheets. To do that you need to tap on the app for each sheets you use. The dispenser will give it to you and the lcd screen will decrement at each sheets of paper.
+
+![Image 4](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4.png)
+![Image 5](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/unknown.png)
+
+Once everything is done you can click on the finish button. If you've use less toilet paper than required, you've earned Pandemic points.
+![Image 6](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4.png)
+![Image 6](https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4-2.png)
 ## Hardware requirements
 
 // TODO : list each component 
