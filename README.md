@@ -82,4 +82,4 @@ ESP8266WiFi and LiquidCrystal libraries
 ## Detailed wiring
 
 <img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/cuisine.PNG" alt="Boitier alerte"/>
-<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/boitier-toilettes.png" alt="Boitier toilettes"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/toilet.png" alt="Boitier toilettes"/>
