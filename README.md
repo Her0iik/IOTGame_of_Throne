@@ -27,7 +27,7 @@ To use this dispenser you gonna need first to go on the app create an account an
 
 After that you need to set the number of sheets of toilet paper you gonna need for each commission :
 
-<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/1.png" alt="Image 1" width="250"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/1.png" alt="Image 1" width="200"/>
 
 When everything is in place you can start what you're here for, the comission.
 First you need to select on the app which comission you're up to : the big or the small.
@@ -46,7 +46,7 @@ When you've finished your business, you can now ask for sheets. To do that you n
 Once everything is done you can click on the finish button. If you've use less toilet paper than required, you've earned Pandemic points.
 
 <img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4.png" alt="Image 6" width="250"/>
-<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4-2.png" alt="Image 7" width="250"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/4-2.png" alt="Image 7" width="200"/>
 
 
 ## Hardware requirements
