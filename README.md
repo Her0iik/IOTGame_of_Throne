@@ -54,14 +54,14 @@ Once everything is done you can click on the finish button. If you've use less t
 
 ### Toilet device
 
-- Wifi Module (ESP8266)
 - Arduino UNO R3
-- DC Motor
-- 5kΩ Resistor
-- 2x 1kΩ Resistors
-- 220Ω Resistor
 - LCD Screen 16x2
+- Wifi Module (ESP8266)
+- DC Motor
 - Tilt Sensor
+- 2.20kΩ Resistor
+- 220Ω Resistor
+- 3x 1kΩ Resistors
 
 ### Alarm device
 
@@ -69,9 +69,9 @@ Once everything is done you can click on the finish button. If you've use less t
 * LCD screen 16x2
 * Wifi Module (ESP8266)
 * Piezo
-* 5kΩ Resistor
+* 2.20kΩ Resistor
 * 220Ω Resistor
-* 250kΩ Resistor
+* 2x 1kΩ Resistors
 
 ## Software requirements
 
