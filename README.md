@@ -51,7 +51,10 @@ Once everything is done you can click on the finish button. If you've use less t
 
 ## Hardware requirements
 
-// TODO : list each component 
+* 2 Arduino UNO
+* 2 LCD screen
+* 2 ESP 8266
+* DC motor
 
 ## Software requirements
 
