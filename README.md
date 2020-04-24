@@ -17,7 +17,7 @@ If you have some thieves in your house and someone is trying to get your preciou
 
 The Game of thrones is presented as a case which can contain the toilet paper roll :
 
-<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/movingservo.png" alt="Boitier" width="250"/>
+<img src="https://github.com/azha-dev/IOTGame_of_Throne/blob/master/img/newcase.png" alt="Boitier" width="250"/>
 
 There is also another case you can place in the living room, this case is only for the alarm.
 
