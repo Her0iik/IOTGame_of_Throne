@@ -75,7 +75,7 @@ Once everything is done you can click on the finish button. If you've use less t
 
 ## Software requirements
 
-ARduino IDE
+Arduino IDE
 
 ESP8266WiFi and LiquidCrystal libraries
 
