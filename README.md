@@ -75,7 +75,9 @@ Once everything is done you can click on the finish button. If you've use less t
 
 ## Software requirements
 
-// carte arduino + son logiciel, librairie LCD, mettre les codes complets dans des fichiers C séparés
+ARduino IDE
+
+ESP8266WiFi and LiquidCrystal libraries
 
 ## Detailed wiring
 
