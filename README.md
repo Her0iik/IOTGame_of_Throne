@@ -52,9 +52,11 @@ Once everything is done you can click on the finish button. If you've use less t
 ## Hardware requirements
 
 * 2 Arduino UNO
-* 2 LCD screen
+* 2 LCD screen 16x2
 * 2 ESP 8266
 * DC motor
+* Tilt sensor
+* 
 
 ## Software requirements
 
