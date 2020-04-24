@@ -57,9 +57,9 @@ Once everything is done you can click on the finish button. If you've use less t
 - Wifi Module (ESP8266)
 - Arduino UNO R3
 - DC Motor
-- 5 kOhm Resistor
-- 2x 1 kOhm Resistors
-- 220 Ohm Resistor
+- 5kΩ Resistor
+- 2x 1kΩ Resistors
+- 220Ω Resistor
 - LCD Screen 16x2
 - Tilt Sensor
 
@@ -69,9 +69,9 @@ Once everything is done you can click on the finish button. If you've use less t
 * LCD screen 16x2
 * Wifi Module (ESP8266)
 * Piezo
-* 5 kOhm Resistor
-* 220 Ohm Resistor
-* 250 kOhm Resistor
+* 5kΩ Resistor
+* 220Ω Resistor
+* 250kΩ Resistor
 
 ## Software requirements
 
