@@ -1,4 +1,4 @@
-# 🚽 Game of Trone : Paper is coming 🧻
+# 🚽 Game of Throne : Paper is coming 🧻
 
 This entire project has been made during quarantin, each member of the group was at home and distant from each other.
 We couldn't access to the appropriate materials to do the physical project, so we use different software to carry out the project, like TinkerCad.
